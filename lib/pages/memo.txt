@@ -1,0 +1,6 @@
+Make sure you modified pubspec.yaml and add assets for images
+
+flutter pub add firebase_core
+    - modified pubspec.yaml and added firebase_core properly
+
+After making app async, don't forget flutter run again on terminal
